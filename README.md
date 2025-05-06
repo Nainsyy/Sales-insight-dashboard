@@ -6,10 +6,13 @@ The Sales Insight Dashboard offers a comprehensive, real-time view of critical s
 ---
 
 ## 🔍 Problem Statement
+
 Many organizations struggle to make timely and informed sales decisions due to fragmented data, lack of real-time visibility, and limited analytical capabilities. Sales teams often rely on static reports that fail to capture evolving trends or highlight actionable insights, leading to missed opportunities and inefficient strategies. Without a centralized and intuitive platform to monitor performance and analyze key sales metrics, businesses face challenges in identifying growth areas, understanding customer behavior, and optimizing their sales processes.
+
 ---
 
 ## 📊 Tools & Technologies Used
+
 - SQL
 - Power BI / Tableau
 - Python (Pandas, NumPy, Matplotlib)
@@ -19,11 +22,13 @@ Many organizations struggle to make timely and informed sales decisions due to f
 ---
 
 ## 📁 Dataset
+
 Used Atliq dataset from Atliq's site containing employee demographics, location, revenue, and order details.
 
 ---
 
 ## 🧠 Approach
+
 1. Performed data cleaning using SQL & Excel
 2. Ran EDA to identify key patterns
 3. Created SQL queries to extract insights
@@ -33,6 +38,7 @@ Used Atliq dataset from Atliq's site containing employee demographics, location,
 ---
 
 ## 📈 Key Features
+
 1. Total Revenue & Sales Quantity Overview - Displays a prominent real-time snapshot of total revenue (₹984.81M) and total sales quantity (2M units).
 2. Time-Based Filtering - Allows users to filter data by month (June to December) and by year (2017–2020) for temporal trend analysis.
 3.Revenue by Region - Bar chart showing revenue contribution by various regions (e.g., Delhi NCR, Mumbai, Ahmedabad), enabling regional performance comparisons.
@@ -46,6 +52,7 @@ Used Atliq dataset from Atliq's site containing employee demographics, location,
 ---
 
 ## ✅ Results
+
 - Revenue Concentration: Delhi NCR leads with ₹520M, highlighting regional sales imbalance.
 - Sales Quantity Skew: Few regions (e.g., Mark004) dominate sales, indicating uneven distribution.
 - Downward Trend: Revenue decline observed from late 2019 to 2020, signaling potential issues.
@@ -62,6 +69,7 @@ Used Atliq dataset from Atliq's site containing employee demographics, location,
 ---
 
 ## 📚 Learnings
+
 - Importance of Visual Clarity - Clear, interactive visuals significantly improve user engagement and quick decision-making.
 - Value of Real-Time Insights: Real-time data empowers faster responses to sales trends and anomalies.
 - Need for Balanced Data Coverage: Highlighted the importance of evenly distributed data across regions and products to avoid reliance on a few key contributors.
