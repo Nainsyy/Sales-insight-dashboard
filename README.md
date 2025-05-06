@@ -1,6 +1,7 @@
 # Project Title – Sales Insight Dashboard
 
 ## 📌 Overview
+
 The Sales Insight Dashboard offers a comprehensive, real-time view of critical sales metrics, empowering teams to make data-driven decisions with confidence. It consolidates performance data, tracks sales trends, highlights top-performing products and regions, and uncovers customer behavior patterns. With intuitive visualizations and customizable filters, the dashboard enables deeper analysis, supports strategic planning, and helps identify growth opportunities across the sales pipeline.
 
 ---
