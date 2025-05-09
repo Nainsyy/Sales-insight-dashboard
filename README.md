@@ -15,7 +15,7 @@ Many organizations struggle to make timely and informed sales decisions due to f
 ## 📊 Tools & Technologies Used
 
 - SQL
-- Power BI / Tableau
+- Power BI 
 - Python (Pandas, NumPy, Matplotlib)
 - Excel
 - Git & GitHub
